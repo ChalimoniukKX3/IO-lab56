@@ -2,3 +2,5 @@
 2. kod czytelny
 3. kod działajacy
 4. komentarze sensowne
+
+TEST ponownego review po zmianie
