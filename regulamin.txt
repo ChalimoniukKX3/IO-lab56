@@ -1,0 +1,4 @@
+1. kod ladny
+2. kod czytelny
+3. kod działajacy
+4. komentarze sensowne
