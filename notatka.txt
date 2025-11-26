@@ -1,2 +1,4 @@
 Magdalena - wpis kontrolny 01
 123
+
+zmiany notatki do brancha Magdalena-test
