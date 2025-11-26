@@ -3,4 +3,4 @@
 3. kod działajacy
 4. komentarze sensowne
 
-TEST FORCE PUSH
+TEST ponownego review po zmianie
